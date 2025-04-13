@@ -1,3 +1,4 @@
 teradatasql
 cx_Oracle
 cryptography
+teradata
